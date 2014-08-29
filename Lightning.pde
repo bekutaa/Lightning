@@ -47,7 +47,6 @@ void keyPressed()
   {
     background(0);
   }
-  if
 }
 
 void lightningFlash()
