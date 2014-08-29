@@ -83,8 +83,7 @@ void lightningFlash()
 
 void lightningBolt()
 {
-  //Lightning bolt begins from the left edge of the screen and draws lines to form a bolt of"lightning" until it reaches the right edge.
-  
+  //Lightning bolt begins from the left edge of the screen and draws lines to form a bolt of"lightning" until it reaches the right edge.  
   stroke(int(random(255)),int(random(255)),int(random(255)));
   strokeWeight(int(random(3)));
   
